@@ -8,7 +8,7 @@ infrastructure aligned with MLOps best practices.
 
 ✅ FastApi : To Build Rest Api to perform CRUD operations, data processing, or integration with other services using Python 
 
-✅ Docker files : To create images for deployment purpose
+✅ Docker files : To create docker images for deployment purpose
 
 ✅ ingress and service yaml files : To Deploy in Azure K8S service(AKS) and expose the model from outside and balance the load internally.
 

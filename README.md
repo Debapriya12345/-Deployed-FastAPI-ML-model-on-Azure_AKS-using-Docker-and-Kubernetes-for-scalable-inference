@@ -1,0 +1,1 @@
+# -Deployed-FastAPI-ML-model-on-Azure_AKS-using-Docker-and-Kubernetes-for-scalable-inference
